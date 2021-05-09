@@ -1,2 +1,2 @@
 # titanicdatacleaning
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNewExperience/Projekt3SIWB/main?filepath=Projekt3.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/wivensarasvati--nicdatacleaning-kyomw9x9/notebooks/titanic.ipynb)
