@@ -1,2 +1,2 @@
 # titanicdatacleaning
-[![Binder](https://mybinder.org/v2/gh/WivenSarasvati/titanicdatacleaning/main?filepath=titanic.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WivenSarasvati/titanicdatacleaning/main?filepath=titanic.ipynb)
